@@ -27,7 +27,7 @@ for module_name in ALL_MODULES:
 
 
 LOGS.info(
-    f"⭐RAM-UBOT⭐ 🔥 V7.0 [AKTIF NGENTOT!!!!]")
+    f"🦡BASKAR-UBOT🦡 🔥 V7.0 [AKTIF YA ANAK NGENTOT!!!!]")
 
 
 if len(argv) not in (1, 3, 4):
