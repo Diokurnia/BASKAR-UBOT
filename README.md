@@ -1,6 +1,6 @@
 <h2 align="centre">🦡 BASKAR-UBOT 🦡</h2>
 
-<a href="https://www.instagram.com/dio_krna?r=nametag"><img src="https://telegra.ph/file/2f699db08369db117c5f1.jpg" width="100" height="100" alt="  BASKAR-UBOT" /></a>
+<a href="https://www.instagram.com/dio_krna?r=nametag"><img src="https://telegra.ph/file/2f699db08369db117c5f1.jpg" width="500" height="500" alt="  BASKAR-UBOT" /></a>
 
 <p align="center">
   <a href="https://github.com/Diokurnia/BASKAR-UBOT/fork">
