@@ -33,7 +33,7 @@
 <a href="https://t.me/BaskarSupportGroup"><img src="https://img.shields.io/badge/Join-BASKAR%20PROJECT-purple.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Penjelasan:
-* **Repo Nya toxic, Gajelas pokoknya mah.** 
+* **Repo Nya toxic, Gajelas pokoknya mah, Kek Hidup Lu** 
 [<img src="https://telegra.ph/file/9350ac1ed1a8fda106b02.jpg">](https://t.me/BaskarProject)
 
 
