@@ -178,7 +178,7 @@ YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", None)
 RAM_TEKS_KOSTUM = os.environ.get("RAM_TEKS_KOSTUM") or "ㅤ"
 
 # Untuk Melihat Repo
-REPO_NAME = os.environ.get("REPO_NAME") or "🦡𝗕𝗔𝗦𝗞𝗔𝗥-𝗨𝗕𝗢𝗧🦡"
+REPO_NAME = os.environ.get("https://github.com/Diokurnia/BASKAR-UBOT") or "🦡𝗕𝗔𝗦𝗞𝗔𝗥-𝗨𝗕𝗢𝗧🦡"
 
 # Default .alive Name
 ALIVE_NAME = os.environ.get("ALIVE_NAME", None)
