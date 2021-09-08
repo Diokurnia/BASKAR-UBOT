@@ -55,7 +55,7 @@ async def typewriter(typew):
     await typew.edit("**Jeje,Mengintil☑️**")
     await typew.edit("**Jeje,Mengintil✅**")
     sleep(3)
-    await typew.edit("**CUMA RAMA YANG BENER!**")
+    await typew.edit("**CUMA BASKAR YANG BENER!**")
 
 
 @register(outgoing=True, pattern='^.lahk(?: |$)(.*)')
@@ -65,7 +65,7 @@ async def typewriter(typew):
     sleep(1)
     await typew.edit("`Apa dongok?`")
     sleep(1)
-    await typew.edit("`Gausah sok keras`")
+    await typew.edit("`Gausah sok keras Lawan Baskar`")
     sleep(1)
     await typew.edit("`Gua ga ketrigger sama bocah baru nyemplung!`")
 
