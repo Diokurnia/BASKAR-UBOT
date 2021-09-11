@@ -488,7 +488,7 @@ with bot:
             if event.message.from_id != uid:
                 u = await event.client.get_entity(event.chat_id)
                 await event.reply(
-                    f"HAI WELCOME [{get_display_name(u)}](tg://user?id={u.id}) BOLEH KELUARKAN KELUH KESAH ANDA\n**DISINI BISA**\nREQ KATA-KATA SESUKAMU\n**𝗚𝗥𝗢𝗨𝗣 𝗦𝗨𝗣𝗣𝗢𝗥𝗧** Dibawah Ini.\n",
+                    f"WOI NGENTOT [{get_display_name(u)}](tg://user?id={u.id}) NGAPAIN LU DI\n**BASKAR-UBOT**\nKALO MAU TAU LEBIH DETAIL MENDING LU KE\n**𝗚𝗥𝗢𝗨𝗣 𝗦𝗨𝗣𝗣𝗢𝗥𝗧** Dibawah Ini.\n",
                     buttons=[
                         [
                              Button.url(f"{EMOJI_HELP} 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 {EMOJI_HELP}",
@@ -500,6 +500,7 @@ with bot:
                     ]
                 )
 
+        
 
         @tgbot.on(events.NewMessage(pattern="/ping"))
         async def handler(event):
